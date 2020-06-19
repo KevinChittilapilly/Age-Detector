@@ -21,3 +21,18 @@ Built an age detector using CNN and Open CV. I have used Adience Dataset to trai
 ![Screenshot](emma.PNG)
 
 ![Screenshot2](sharukh.PNG)
+
+# Steps to run the project
+
+1. The model is already trained. All you need to do is download the repository and run the file.
+
+2. If u wish to detect age of a image run the following code in your preferred ide
+```
+%run detect_age.py --image img.jpg --face face_detector --age age_detector
+```
+
+3. If u wish to detect age of a person using video camera of ur system run the following code
+```
+%run detect_age_video.py --face face_detector --age age_detector
+```
+
