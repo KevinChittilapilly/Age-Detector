@@ -18,4 +18,4 @@ Built an age detector using CNN and Open CV. I have used Adience Dataset to trai
 
 8. 60-100
 
-![Screenshot](screenshot.png)
+![Screenshot](emma.png)
